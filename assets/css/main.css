@@ -42,7 +42,7 @@ body {
 }
 .Wireframe{
 	height:auto;
-	width:25%;
+	width:33%;
 }
 .co-op{
 	font-size:1.4em;
@@ -323,6 +323,27 @@ body {
   left: 0%;
   }
 }
+
+.Lets-connect{
+	display: flex;
+	justify-content: center;
+	margin:0;
+}
+.Lets-connect2{
+	margin:0px;
+}
+.Lets-connect3{
+	margin-bottom: :10px;
+}
+.Lets-connect4{
+	margin-right:10px;
+	margin-left:10px;
+}
+#something{
+	padding:0;
+	margin-left:0;
+}
+
 
 
 
